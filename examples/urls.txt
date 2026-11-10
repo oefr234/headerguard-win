@@ -1,0 +1,10 @@
+# One URL per line. Blank lines and lines starting with # are ignored.
+https://example.com
+http://github.com
+
+# Failure cases, one per error category
+example.com
+ftp://example.com
+https://nu-exista-acest-host.invalid
+http://127.0.0.1:1
+https://expired.badssl.com
